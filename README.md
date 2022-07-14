@@ -9,3 +9,6 @@ burası alt bilgi
 kod bloğu
 ```
  
+| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
+| :--- | :---: | ---: |
+| 1 | Açıklama | Fiyatı |
