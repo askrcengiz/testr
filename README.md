@@ -3,7 +3,7 @@
 ## alt bilgi
 burası alt bilgi
 
-[lorem ipsum] {https://google.com}
+[lorem ipsum] (https://google.com)
 
 ``` 
 kod bloğu
